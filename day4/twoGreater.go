@@ -1,0 +1,14 @@
+package main
+
+import (
+	"fmt"
+)
+
+func twoGreater(arr []int) []int {
+
+}
+
+func main() {
+	arr := []int{1, 2, 3, 4, 5}
+	fmt.Println(twoGreater)
+}
